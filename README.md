@@ -8,7 +8,7 @@ Find the positions(index) of G and C in DNA Sequence
 # Task3
 ckeck if the DNA contains another letters than (A ,C ,C, T) then Count each nucleotide in the DNA sequence
 
-#Task4
+# Task4
 perform central dogma (DNA -> RNA -> Protien)
 
 # Task5
